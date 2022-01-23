@@ -130,4 +130,6 @@ picures{
 }
 .Information{
     margin-bottom: 50px;
+}.Information img{
+    float: right;
 }
