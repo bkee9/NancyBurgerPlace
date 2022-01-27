@@ -149,3 +149,7 @@ picures{
     color: #F6B400;
     font-size: x-large;
 }
+.Rights{
+    display:flex;
+    justify-content: space-around;
+}
