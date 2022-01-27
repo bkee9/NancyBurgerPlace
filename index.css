@@ -117,12 +117,14 @@ picures{
 .item img{
     width: 20%;
 }
-.Decker{
-    margin-left: 40px;
-    color: #F6B400;
+.thirdlast{
+    background-color: rgb(18, 233, 161);
 }
-.Double{
-    background-color: #E1EBE6;
+.Double h3{
+    text-align: left;
+}
+.burgerimage{
+    justify-content: right;
 }
 .Double img{
     width:400px;
@@ -134,16 +136,16 @@ picures{
     display: flex;
     flex-wrap: wrap;
 }
-.pesa img{
-    float: right;
+.secondlast{
+    background-color: yellow;
+    flex-wrap: wrap;
 }
-.Information{
-    margin-bottom: 50px;
-}.Information img{
-    float: right;
-    justify-content: space-around;
-    
-}.content h4{
+.mwende{
+    justify-content:space-between;
+}
+
+
+.content h4{
     text-align: center;
     text-decoration: underline;
     color: #F6B400;
@@ -152,4 +154,8 @@ picures{
 .Rights{
     display:flex;
     justify-content: space-around;
+}
+.lastsection{
+    display: flex;
+    justify-content: space-between;
 }
