@@ -2,7 +2,12 @@
 NancyBurgerPlace
 
 ## PROJECT DESCRIPTION
-This is my first website in Moringa School
+This is my first website in Moringa School.
+
+## Setup/Installation
+* Ensure that you have a browser that you can access.
+* Click on the live link situated around the About section in github.
+* Have Fun!!
 
 ## TECHNOLOGIES USED
 I used HTML & CSS
@@ -11,10 +16,4 @@ I used HTML & CSS
 I intend to have my project be accessible and beneficial in the market.
 
 ## CONTACT INFORMATION
-You can reach out my services via email nancymwende860@gmail.com
-<<<<<<< HEAD
-or through 0746451157
-=======
-or through 0746451157
-
->>>>>>> 91fa11d3452d5ea0919c996fed614ae600e6038c
+You can reach out my services via email nancymwende860@gmail.com or through 0746451157.
